@@ -5,8 +5,8 @@
 	<div class="container-fluid d-flex align-items-center justify-content-between">
 		<a href="/" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
 			<!-- Uncomment the line below if you also wish to use an image logo -->
-			<img src="../assets/img/logo.png" alt="logo" class="navbar-logo d-block d-md-none">
-			<img src="../assets/img/logo.png" alt="logo" class="navbar-logo d-none d-md-block">
+			<img src="/assets/img/logo.png" alt="logo" class="navbar-logo d-block d-md-none">
+			<img src="/assets/img/logo.png" alt="logo" class="navbar-logo d-none d-md-block">
 			<!-- <h1>HeroBiz<span>.</span></h1> -->
 		</a>
 
