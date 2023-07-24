@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include "../partials/meta-inner.php"; ?>
+
+<?php include "../config/menu.php"; ?>
+<?php include "../partials/meta.php"; ?>
 
 <body>
 	<!-- ======= Header ======= -->
-	<?php include "../partials/header-inner.php"; ?>
+	<?php include "../partials/header.php"; ?>
 	<!-- End Header -->
 
 	<section id="hero-static" class="hero-static d-flex align-items-center">
@@ -99,10 +101,10 @@
 	</main>
 	<!-- End #main -->
 	<!-- ======= Footer ======= -->
-	<?php include "../partials/footer-inner.php"; ?>
+	<?php include "../partials/footer.php"; ?>
 	<!-- End Footer -->
 
-	<?php include "../partials/script-inner.php"; ?>
+	<?php include "../partials/script.php"; ?>
 </body>
 
 </html>

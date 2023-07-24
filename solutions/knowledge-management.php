@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include "../partials/meta-inner.php"; ?>
+<?php include "../config/menu.php"; ?>
+<?php include "../partials/meta.php"; ?>
 
 <body id="solutions">
 
 	<!-- ======= Header ======= -->
-	<?php include "../partials/header-inner.php"; ?>
+	<?php include "../partials/header.php"; ?>
 	<!-- End Header -->
 	<section id="solutions" class="hero-static d-flex align-items-center">
 		<div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
@@ -97,10 +98,10 @@
 
 	</main><!-- End #main -->
 	<!-- ======= Footer ======= -->
-	<?php include "../partials/footer-inner.php"; ?>
+	<?php include "../partials/footer.php"; ?>
 	<!-- End Footer -->
 
-	<?php include "../partials/script-inner.php"; ?>
+	<?php include "../partials/script.php"; ?>
 
 </body>
 

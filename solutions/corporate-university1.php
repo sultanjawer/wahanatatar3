@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
 <?php include "../partials/meta-inner.php"; ?>
 
 <body id="solutions">
