@@ -1,0 +1,200 @@
+.excerpt-detail{
+	font-style: italic;
+}
+
+.text-mute{
+	color: rgb(160, 160, 160) !important;
+}
+
+.author {
+	z-index: 1;
+	top: -50px;
+	/* left: 50%; */
+	width: 100px;
+	height: 100px;
+	padding: 3px;
+	text-align: center;
+	position: absolute;
+	/* background-color: goldenrod; */
+	color: #ffffff;
+	/* box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.4); */
+	/* border-radius: 5px; Adjust the value to control the roundness of the corners */
+  }
+
+.event-date {
+	z-index: 1;
+	top: 15px;
+	left: 15px;
+	width: 70px;
+	height: 70px;
+	padding: 3px;
+	text-align: center;
+	position: absolute;
+	background-color: goldenrod;
+	color: #ffffff;
+	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.4);
+	border-radius: 5px; /* Adjust the value to control the roundness of the corners */
+  }
+
+  .aQuote {
+	padding: 80px 0;
+	background: url("../img/testimonials-bg.jpg") no-repeat;
+	background-position: center center;
+	background-size: cover;
+	position: relative;
+  }
+
+  /* Add the transparent color overlay */
+  .aQuote::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(119, 106, 69, 0.8); /* Adjust the last value (0.5) to control the transparency (0 = fully transparent, 1 = fully opaque) */
+  }
+
+  .aQuote-item {
+	text-align: center;
+	color: white; /* Using a concrete color to make sure the text is visible */
+	position: relative; /* Make sure the element is positioned */
+	z-index: 1;
+  }
+
+  /* Additional styles for better visualization */
+  /* .aQuote h3,
+  .aQuote h4 {
+	margin: 10px 0;
+  } */
+
+  .aQuote  h3 {
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px 0 5px 0;
+	color: var(--color-white);
+  }
+
+  .aQuote h4 {
+	font-size: 14px;
+	color: rgba(var(--color-white-rgb), 0.6);
+	margin: 0 0 15px 0;
+  }
+
+  .aQuote-img {
+	max-width: 100px;
+	border-radius: 50%;
+	margin: 0 auto;
+  }
+
+  .stars {
+	font-size: 20px;
+	margin: 10px 0;
+  }
+
+  .stars i {
+	color: gold;
+  }
+
+  .aQuote p {
+	font-style: italic;
+  }
+
+  .quote-icon-left,
+  .quote-icon-right {
+	font-size: 24px;
+	vertical-align: middle;
+  }
+
+  .quote-icon-left {
+	margin-right: 5px;
+  }
+
+  .quote-icon-right {
+	margin-left: 5px;
+  }
+
+
+/* .myquotes {
+	padding: 80px 0;
+	background: rgba(0,0,0, 0.5) url("../img/testimonials-bg.jpg")  no-repeat;
+	background-position: center center;
+	background-size: cover;
+	content: "";
+  	position: relative;
+  	inset: 0;
+  } */
+
+/*
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+@media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
+}
+
+.b-example-divider {
+	width: 100%;
+	height: 3rem;
+	background-color: rgba(0, 0, 0, .1);
+	border: solid rgba(0, 0, 0, .15);
+	border-width: 1px 0;
+	box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.b-example-vr {
+	flex-shrink: 0;
+	width: 1.5rem;
+	height: 100vh;
+}
+
+.bi {
+	vertical-align: -.125em;
+	fill: currentColor;
+}
+
+.nav-scroller {
+	position: relative;
+	z-index: 2;
+	height: 2.75rem;
+	overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+	display: flex;
+	flex-wrap: nowrap;
+	padding-bottom: 1rem;
+	margin-top: -1px;
+	overflow-x: auto;
+	text-align: center;
+	white-space: nowrap;
+	-webkit-overflow-scrolling: touch;
+}
+
+.btn-bd-primary {
+	--bd-violet-bg: #712cf9;
+	--bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+
+	--bs-btn-font-weight: 600;
+	--bs-btn-color: var(--bs-white);
+	--bs-btn-bg: var(--bd-violet-bg);
+	--bs-btn-border-color: var(--bd-violet-bg);
+	--bs-btn-hover-color: var(--bs-white);
+	--bs-btn-hover-bg: #6528e0;
+	--bs-btn-hover-border-color: #6528e0;
+	--bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+	--bs-btn-active-color: var(--bs-btn-hover-color);
+	--bs-btn-active-bg: #5a23c8;
+	--bs-btn-active-border-color: #5a23c8;
+}
+
+.bd-mode-toggle {
+	z-index: 1500;
+} */
