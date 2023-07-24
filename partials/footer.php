@@ -1,4 +1,4 @@
-<?php include "partials/cta-modal.php"; ?>
+<?php include "cta-modal.php"; ?>
 <footer id="footer" class="footer">
 	<div class="footer-content">
 		<div class="container">

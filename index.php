@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en" data-bs-theme="auto">
-
+<?php include "config/menu.php"; ?>
 <?php include "partials/meta.php"; ?>
 
 <body>
