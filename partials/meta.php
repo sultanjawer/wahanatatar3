@@ -40,4 +40,12 @@
 	<!-- Template Main CSS File -->
 	<link href="/assets/css/main.css" rel="stylesheet">
 	<link href="/assets/css/newstyle.css" rel="stylesheet">
+
+	<style>
+		.img-fluid-slider {
+			min-width: 100%;
+			max-width: 100%;
+			height: 290px !important;
+		}
+	</style>
 </head>
