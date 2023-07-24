@@ -11,7 +11,7 @@
 			<div class="col" data-aos="zoom-in" data-aos-delay="200">
 				<div class="service-item d-flex flex-column h-100">
 					<div class="img">
-						<img src="assets/img/services-1.jpg" class="img-fluid" alt="">
+						<img src="assets/img/services-1.jpg" class="img-fluid-slider" alt="">
 					</div>
 					<div class="details position-relative flex-grow-1">
 						<div class="icon">
@@ -27,7 +27,7 @@
 			<div class="col" data-aos="zoom-in" data-aos-delay="200">
 				<div class="service-item d-flex flex-column h-100">
 					<div class="img">
-						<img src="assets/img/services-1.jpg" class="img-fluid" alt="">
+						<img src="assets/img/services-1.jpg" class="img-fluid-slider" alt="">
 					</div>
 					<div class="details position-relative flex-grow-1">
 						<div class="icon">
@@ -43,7 +43,7 @@
 			<div class="col" data-aos="zoom-in" data-aos-delay="200">
 				<div class="service-item d-flex flex-column h-100">
 					<div class="img">
-						<img src="assets/img/services-1.jpg" class="img-fluid" alt="">
+						<img src="assets/img/services-1.jpg" class="img-fluid-slider" alt="">
 					</div>
 					<div class="details position-relative flex-grow-1">
 						<div class="icon">
@@ -59,7 +59,7 @@
 			<div class="col" data-aos="zoom-in" data-aos-delay="200">
 				<div class="service-item d-flex flex-column h-100">
 					<div class="img">
-						<img src="assets/img/services-1.jpg" class="img-fluid" alt="">
+						<img src="assets/img/services-1.jpg" class="img-fluid-slider" alt="">
 					</div>
 					<div class="details position-relative flex-grow-1">
 						<div class="icon">
@@ -75,7 +75,7 @@
 			<div class="col" data-aos="zoom-in" data-aos-delay="200">
 				<div class="service-item d-flex flex-column h-100">
 					<div class="img">
-						<img src="assets/img/services-1.jpg" class="img-fluid" alt="">
+						<img src="assets/img/services-1.jpg" class="img-fluid-slider" alt="">
 					</div>
 					<div class="details position-relative flex-grow-1">
 						<div class="icon">
