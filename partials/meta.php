@@ -3,7 +3,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="">
 
-	<meta name="keywords" content="dibta indonesia, corporate university indonesia, corporate learning, e-learning, digital learning" />
+	<meta name="keywords" content="corporate dibta indonesia, corporate university indonesia, corporate learning, e-learning, digital learning" />
 	<meta name="rights" content="Copyright 2018. PT. Wahana Tatar Wirakelola. All rights reserved" />
 	<meta name="description" content="Corporate University Consultant in Indonesia. Start develop your corporate university with our end-to-end consultation" />
 	<title>
