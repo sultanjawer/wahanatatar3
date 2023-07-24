@@ -25,12 +25,10 @@
 		<section class="blog">
 			<div class="container" data-aos="fade-up">
 				<div class="row g-5">
-					<div class="col-lg-8">
-						<div class="row row-cols-1 row-cols-md-2 g-4 mb-5">
-							<?php include "indexblog.php"; ?>
-						</div>
+					<div class="col-lg-12">
+						<?php include "indexblog.php"; ?>
 						<!-- this page navigation when possible -->
-						<nav aria-label="Page navigation example" data-aos="zoom-out">
+						<!--nav aria-label="Page navigation example" data-aos="zoom-out">
 							<ul class="pagination justify-content-center">
 								<li class="page-item disabled">
 									<a class="page-link">Prev</a>
@@ -42,15 +40,15 @@
 									<a class="page-link" href="#">Next</a>
 								</li>
 							</ul>
-						</nav>
+						</nav-->
 					</div>
-					<?php include "../solutions/sidebar.php"; ?>
+					<!-- ?php include "../solutions/sidebar.php"; ? -->
 
 				</div>
 			</div>
 		</section>
 		<hr>
-		<section class="blog">
+		<!-- section class="blog">
 			<div class="container" data-aos="fade-up">
 				<div class="p-3 bg-body rounded shadow" data-aos="fade-up">
 					<h6 class="border-bottom pb-2 mb-0">All Events</h6>
@@ -108,7 +106,7 @@
 					<!-- page navigation here -->
 				</div>
 			</div>
-		</section>
+		</section -->
 
 	</main><!-- End #main -->
 
