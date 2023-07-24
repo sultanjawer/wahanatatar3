@@ -33,14 +33,14 @@
 									<div class="card-body">
 										<div class="d-flex justify-content-between align-items-center">
 											<h5 class="card-title">
-												<a href="solutions/corporate-university.php">Corporate University</a>
+												<a href="/solutions/corporate-university.php">Corporate University</a>
 											</h5>
 										</div>
 										<p class="card-text">We build brand new creative Learning Solution for Next-Gen Corporate University.</p>
 									</div>
 									<div class="card-footer text-end">
 										<small>
-											<a href="solutions/corporate-university.php" class="btn btn-sm btn-primary">Read more</a>
+											<a href="/solutions/corporate-university.php" class="btn btn-sm btn-primary">Read more</a>
 										</small>
 									</div>
 								</div>
@@ -51,14 +51,14 @@
 									<div class="card-body">
 										<div class="d-flex justify-content-between align-items-center">
 											<h5 class="card-title">
-												<a href="solutions/digital-learning.php">Digital Platform</a>
+												<a href="digital-learning.php">Digital Platform</a>
 											</h5>
 										</div>
 										<p class="card-text">Discover how Learning Platform will give you better experience within your training & learning processes.</p>
 									</div>
 									<div class="card-footer text-end">
 										<small>
-											<a href="solutions/digital-learning.php" class="btn btn-sm btn-primary">Read more</a>
+											<a href="digital-learning.php" class="btn btn-sm btn-primary">Read more</a>
 										</small>
 									</div>
 								</div>
@@ -69,14 +69,14 @@
 									<div class="card-body">
 										<div class="d-flex justify-content-between align-items-center">
 											<h5 class="card-title">
-												<a href="solutions/knowledge-management.php">Knowledge Management</a>
+												<a href="knowledge-management.php">Knowledge Management</a>
 											</h5>
 										</div>
 										<p class="card-text">Build the most effective Knowledge Management by taking advantage of Digital Platform.</p>
 									</div>
 									<div class="card-footer text-end">
 										<small>
-											<a href="solutions/knowledge-management.php" class="btn btn-sm btn-primary">Read more</a>
+											<a href="knowledge-management.php" class="btn btn-sm btn-primary">Read more</a>
 										</small>
 									</div>
 								</div>
@@ -87,14 +87,14 @@
 									<div class="card-body">
 										<div class="d-flex justify-content-between align-items-center">
 											<h5 class="card-title">
-												<a href="solutions/certified-workshop.php">Certified Workshop</a>
+												<a href="certified-workshop.php">Certified Workshop</a>
 											</h5>
 										</div>
 										<p class="card-text">Find better learning solution for Human Resource Training & Development with us!.</p>
 									</div>
 									<div class="card-footer text-end">
 										<small>
-											<a href="solutions/certified-workshop.php" class="btn btn-sm btn-primary">Read more</a>
+											<a href="certified-workshop.php" class="btn btn-sm btn-primary">Read more</a>
 										</small>
 									</div>
 								</div>
@@ -105,14 +105,14 @@
 									<div class="card-body">
 										<div class="d-flex justify-content-between align-items-center">
 											<h5 class="card-title">
-												<a href="solutions/learning-content-development.php">Learning Content Development</a>
+												<a href="learning-content-development.php">Learning Content Development</a>
 											</h5>
 										</div>
 										<p class="card-text">We provide services to help you develop various type of learning content with sophisticated technology.</p>
 									</div>
 									<div class="card-footer text-end">
 										<small>
-											<a href="solutions/learning-content-development.php" class="btn btn-sm btn-primary">Read more</a>
+											<a href="learning-content-development.php" class="btn btn-sm btn-primary">Read more</a>
 										</small>
 									</div>
 								</div>
@@ -152,7 +152,7 @@
 						</div>
 
 						<p class="pb-3 mb-0 small lh-sm border-bottom">
-							<a href="events/event-single.php">
+							<a href="/events/event-single.php">
 								<strong class="d-block text-gray-dark">
 									Event Name
 								</strong>
@@ -169,7 +169,7 @@
 						</div>
 
 						<p class="pb-3 mb-0 small lh-sm border-bottom">
-							<a href="events/event-single.php">
+							<a href="/events/event-single.php">
 								<strong class="d-block text-gray-dark">
 									Event Name
 								</strong>
@@ -186,7 +186,7 @@
 						</div>
 
 						<p class="pb-3 mb-0 small lh-sm border-bottom">
-							<a href="events/event-single.php">
+							<a href="/events/event-single.php">
 								<strong class="d-block text-gray-dark">
 									Event Name
 								</strong>
