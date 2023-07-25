@@ -1,7 +1,7 @@
 <div class="row row-cols-1 row-cols-md-2 row-cols-md-3 g-4 mb-5">
                                                             <div class="col">
                                     <div class="card h-100 border-0 shadow">
-                                        <img src="/assets/img/solutions/corporateuniversity.jpg" class="card-img-top" alt="...">
+                                        <img src="/assets/img/solutions/corporateuniversity.jpg" class="card-img-top-sol" alt="...">
                                         <div class="card-body">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <h5 class="card-title">
@@ -19,7 +19,7 @@
                                 </div>
                                                             <div class="col">
                                     <div class="card h-100 border-0 shadow">
-                                        <img src="/assets/img/solutions/services-2.jpg" class="card-img-top" alt="...">
+                                        <img src="/assets/img/solutions/services-2.jpg" class="card-img-top-sol" alt="...">
                                         <div class="card-body">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <h5 class="card-title">
@@ -37,7 +37,7 @@
                                 </div>
                                                             <div class="col">
                                     <div class="card h-100 border-0 shadow">
-                                        <img src="/assets/img/solutions/services-3.jpg" class="card-img-top" alt="...">
+                                        <img src="/assets/img/solutions/services-3.jpg" class="card-img-top-sol" alt="...">
                                         <div class="card-body">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <h5 class="card-title">
@@ -55,7 +55,7 @@
                                 </div>
                                                             <div class="col">
                                     <div class="card h-100 border-0 shadow">
-                                        <img src="/assets/img/solutions/wes-lewis-zt6OxRORM2g-unsplash.jpg" class="card-img-top" alt="...">
+                                        <img src="/assets/img/solutions/wes-lewis-zt6OxRORM2g-unsplash.jpg" class="card-img-top-sol" alt="...">
                                         <div class="card-body">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <h5 class="card-title">
@@ -73,7 +73,7 @@
                                 </div>
                                                             <div class="col">
                                     <div class="card h-100 border-0 shadow">
-                                        <img src="/assets/img/solutions/services-5.jpg" class="card-img-top" alt="...">
+                                        <img src="/assets/img/solutions/services-5.jpg" class="card-img-top-sol" alt="...">
                                         <div class="card-body">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <h5 class="card-title">
@@ -91,7 +91,7 @@
                                 </div>
                                                             <div class="col">
                                     <div class="card h-100 border-0 shadow">
-                                        <img src="/assets/img/solutions/services-4.jpg" class="card-img-top" alt="...">
+                                        <img src="/assets/img/solutions/services-4.jpg" class="card-img-top-sol" alt="...">
                                         <div class="card-body">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <h5 class="card-title">
