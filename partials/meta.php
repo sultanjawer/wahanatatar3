@@ -47,5 +47,11 @@
 			max-width: 100%;
 			height: 290px !important;
 		}
+		.card-img-top-sol {
+			border-top-left-radius: var(--bs-card-inner-border-radius);
+			border-top-right-radius: var(--bs-card-inner-border-radius);
+			height: 310px;
+			width: 100%;
+		}
 	</style>
 </head>
