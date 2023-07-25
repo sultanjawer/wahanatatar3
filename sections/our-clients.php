@@ -5,7 +5,7 @@
 			<h2>Our Clients</h2>
 		</div>
 		<?php
-		$folder = 'assets/img/clients/'; // Specify the directory path where your images are located
+		$folder = 'assets/client/'; // Specify the directory path where your images are located
 		$images = glob($folder . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
 		natcasesort($images); // Sort the images array by name
 		?>
