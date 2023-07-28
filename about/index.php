@@ -34,7 +34,7 @@
 						<p class=" text-white">
 							Wahana Tatar Wirakelola is Corporate Learning Specialist, founded by professionals who have deep passion and focus to help and educate organizations to develop comprehensive corporate education and training, which is called Corporate University, to be more efficient and strategic.
 						</p>
-						<?php include "partials/whatsapp-button.php"; ?>
+						<?php include "../partials/whatsapp-button.php"; ?>
 					</div>
 
 					<div class="col-md-7">

@@ -69,7 +69,7 @@
 					<h4>Need to develop your Corporate University?</h4>
 					<span class="fs-6">Feel free to consult with us!</span>
 					<div class="text-center mt-3">
-						<?php include "partials/whatsapp-button.php"; ?>
+						<?php include "../partials/whatsapp-button.php"; ?>
 					</div>
 				</div>
 			</div>

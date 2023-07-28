@@ -146,7 +146,7 @@
 								</ul>
 								<!-- <hr> -->
 								<div class="d-grid mt-5">
-									<?php include "partials/whatsapp-button.php"; ?>
+									<?php include "../partials/whatsapp-button.php"; ?>
 								</div>
 							</div>
 						</div>
