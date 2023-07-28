@@ -10,15 +10,14 @@
 		natcasesort($images); // Sort the images array by name
 		?>
 
-		<ul class="nav nav-tabs row gy-4 row-cols-2 row-cols-md-6 d-flex justify-content-center">
-			<?php foreach ($images as $image) { ?>
-				<li class="nav-item col">
-					<a class="nav-link show" href="javascript:void(0)">
+		<div class="clients-slider swiper">
+			<div class="swiper-wrapper align-items-center">
+				<?php foreach ($images as $image) { ?>
+					<div class="swiper-slide">
 						<img class="img-fluid" src="<?php echo $image; ?>" />
-					</a>
-				</li>
-			<?php } ?>
-		</ul>
-
+					</div>
+				<?php } ?>
+			</div>
+		</div>
 	</div>
 </section>
