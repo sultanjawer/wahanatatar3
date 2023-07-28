@@ -55,7 +55,9 @@
 					</div><!-- End Info Item -->
 
 					<div class="info-item text-center">
-						<div class="text-center"><button type="submit" class="btn btn-sm btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Send Message</button></div>
+						<div class="text-center">
+							<?php include "partials/whatsapp-button.php"; ?>
+						</div>
 					</div><!-- End Info Item -->
 				</div>
 

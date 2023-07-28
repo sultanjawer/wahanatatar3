@@ -146,9 +146,7 @@
 								</ul>
 								<!-- <hr> -->
 								<div class="d-grid mt-5">
-									<button class="btn btn-warning btn-sm btn-block" data-bs-toggle="modal" data-bs-target="#exampleModal">
-										book now!
-									</button>
+									<?php include "partials/whatsapp-button.php"; ?>
 								</div>
 							</div>
 						</div>

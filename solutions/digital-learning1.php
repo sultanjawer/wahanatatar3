@@ -130,7 +130,7 @@
 						<p>
 							Start develop Learning Platform for your organization with the right partner!
 						</p>
-						<a href="" class="cta-btn align-self-start" data-bs-toggle="modal" data-bs-target="#exampleModal">Implement Learning Platform Now!</a>
+						<?php include "partials/whatsapp-button.php"; ?>
 					</div>
 					<div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
 						<div class="img">
