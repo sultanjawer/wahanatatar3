@@ -55,7 +55,7 @@
 					</div>
 
 					<!-- sidebar, must be dynamic and current page must be excluded from the item list-->
-					<?php include "../solutions/sidebar.php"; ?>
+					<?php include "sidebar.php"; ?>
 				</div>
 
 			</div>

@@ -9,17 +9,24 @@ $datamenu = array(
     'event' => array('events')       
 );
 
+include 'datapage.php';
+
 function activeClass ($menus)
 {   
-    // $currentReference = $_SERVER['REQUEST_URI'];
-    //print_r($currentReference);
     $uriSegments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
-    // $link = $_SERVER['PHP_SELF'];
-    // $link_array = explode('/',$link);
-    // $page = end($link_array);
-    // print_r($uriSegments[1]);
     foreach ($menus as $key => $subArray) {
         if (in_array($uriSegments[1], $subArray)) {
+            return $key;
+        }
+    }
+    return null;
+}
+
+function activePage ($menus)
+{   
+    $uriSegments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
+    foreach ($menus as $key => $value) {
+        if ($uriSegments[2]== $value) {
             return $key;
         }
     }
