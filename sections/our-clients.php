@@ -8,23 +8,25 @@
 		$folder = 'assets/client/';
 		$images = glob($folder . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
 		natcasesort($images);
-		$imageChunks = array_chunk($images, 6); // Split images into chunks of 6
+		$imageCount = count($images);
+		$imagesPerRow = ceil($imageCount / 2); // Calculate how many images to show per row
 		?>
 
 		<div class="clients-slider swiper">
 			<div class="swiper-wrapper align-items-center">
-				<?php foreach ($imageChunks[0] as $image) { ?>
+				<?php for ($i = 0; $i < $imagesPerRow; $i++) { ?>
 					<div class="swiper-slide">
-						<img class="img-fluid" src="<?php echo $image; ?>" />
+						<img class="img-fluid" src="<?php echo $images[$i]; ?>" />
 					</div>
 				<?php } ?>
 			</div>
 		</div>
+
 		<div class="clients-slider swiper">
 			<div class="swiper-wrapper align-items-center">
-				<?php foreach ($imageChunks[1] as $image) { ?>
+				<?php for ($i = $imagesPerRow; $i < $imageCount; $i++) { ?>
 					<div class="swiper-slide">
-						<img class="img-fluid" src="<?php echo $image; ?>" />
+						<img class="img-fluid" src="<?php echo $images[$i]; ?>" />
 					</div>
 				<?php } ?>
 			</div>
