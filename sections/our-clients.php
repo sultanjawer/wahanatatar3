@@ -5,20 +5,30 @@
 			<h2>Our Clients</h2>
 		</div>
 		<?php
-		$folder = 'assets/img/clients/'; // Specify the directory path where your images are located
+		$folder = 'assets/client/';
 		$images = glob($folder . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
-		natcasesort($images); // Sort the images array by name
+		natcasesort($images);
+		$imageChunks = array_chunk($images, 6); // Split images into chunks of 6
 		?>
 
-		<ul class="nav nav-tabs row gy-4 row-cols-2 row-cols-md-6 d-flex justify-content-center">
-			<?php foreach ($images as $image) { ?>
-				<li class="nav-item col">
-					<a class="nav-link show" href="javascript:void(0)">
+		<div class="clients-slider swiper">
+			<div class="swiper-wrapper align-items-center">
+				<?php foreach ($imageChunks[0] as $image) { ?>
+					<div class="swiper-slide">
 						<img class="img-fluid" src="<?php echo $image; ?>" />
-					</a>
-				</li>
-			<?php } ?>
-		</ul>
+					</div>
+				<?php } ?>
+			</div>
+		</div>
+		<div class="clients-slider swiper d-none d-lg-block">
+			<div class="swiper-wrapper align-items-center">
+				<?php foreach ($imageChunks[1] as $image) { ?>
+					<div class="swiper-slide">
+						<img class="img-fluid" src="<?php echo $image; ?>" />
+					</div>
+				<?php } ?>
+			</div>
+		</div>
 
 	</div>
 </section>
