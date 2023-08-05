@@ -12,12 +12,17 @@
 
 		<div class="clients-slider swiper">
 			<div class="swiper-wrapper align-items-center">
-				<?php foreach ($images as $image) { ?>
+				<?php foreach ($imageChunks as $index ) { ?>
 					<div class="swiper-slide">
-						<img class="img-fluid" src="<?php echo $image; ?>" />
+						<div class="row">
+							<?php foreach ($index as $image ) { ?>
+								<img class="img-fluid" src="<?php echo $image; ?>" >
+							<?php } ?>
+						</div>
 					</div>
 				<?php } ?>
 			</div>
 		</div>
+		
 	</div>
 </section>
