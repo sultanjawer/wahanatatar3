@@ -17,7 +17,7 @@
 					<div class="swiper-slide">
 						<div class="row">
 							<?php foreach ($index as $image ) { ?>
-								<img class="img-fluid mt-2" src="<?php echo $image; ?>" >
+								<img class="img-fluid mt-4" src="<?php echo $image; ?>" >
 							<?php } ?>
 						</div>
 					</div>
