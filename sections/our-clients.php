@@ -8,6 +8,7 @@
 		$folder = 'assets/client/'; // Specify the directory path where your images are located
 		$images = glob($folder . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
 		natcasesort($images); // Sort the images array by name
+		$imageChunks = array_chunk($images, 2);
 		?>
 
 		<div class="clients-slider swiper">
@@ -16,7 +17,7 @@
 					<div class="swiper-slide">
 						<div class="row">
 							<?php foreach ($index as $image ) { ?>
-								<img class="img-fluid" src="<?php echo $image; ?>" >
+								<img class="img-fluid mt-2" src="<?php echo $image; ?>" >
 							<?php } ?>
 						</div>
 					</div>
