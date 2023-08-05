@@ -12,14 +12,14 @@
 
 		<nav id="navbar" class="navbar">
 			<ul class="small">
-			
-				<li><a class="nav-link scrollto <?php echo (activeClass($datamenu) == '') ? 'active'  : '' ?>"  href="/">Home</a></li>
+
+				<li><a class="nav-link scrollto <?php echo (activeClass($datamenu) == '') ? 'active'  : '' ?>" href="/">Home</a></li>
 				<li><a class="nav-link scrollto <?php echo (activeClass($datamenu) == 'solutions') ? 'active'  : '' ?>" href="/solutions/index.php">Solutions</a></li>
 				<li><a class="nav-link scrollto <?php echo (activeClass($datamenu) == 'corporate') ? 'active'  : '' ?>" href="/about/index.php">Corporate</a></li>
-				<li><a class="nav-link scrollto <?php echo (activeClass($datamenu) == 'news') ? 'clients'  : '' ?>"  href="/clients/index.php">Our Clients</a></li>
+				<li><a class="nav-link scrollto <?php echo (activeClass($datamenu) == 'news') ? 'clients'  : '' ?>" href="/clients/index.php">Our Clients</a></li>
 				<li><a class="nav-link <?php echo (activeClass($datamenu) == 'news') ? 'active'  : '' ?>" href="/news/index.php">News</a></li>
 				<li><a class="nav-link <?php echo (activeClass($datamenu) == 'event') ? 'active'  : '' ?>" href="/events/index.php">Event & Workshop</a></li>
-				<li><a class="nav-link scrollto" href="https://capabilitiesacademy.com">Login</a></li>
+				<li><a class="nav-link scrollto" target="_blank" href="https://capabilitiesacademy.com">Login</a></li>
 			</ul>
 			<i class="bi bi-list mobile-nav-toggle d-none"></i>
 		</nav><!-- .navbar -->

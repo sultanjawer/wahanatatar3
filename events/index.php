@@ -62,7 +62,7 @@
 										<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 										<!-- redirect to contact_us with different subject title -->
 										<small>
-											<a href="contact_us.php" class="btn btn-sm btn-warning">Book Now</a>
+											<?php include "../partials/book-now-button.php"; ?>
 										</small>
 									</div>
 								</div>
@@ -99,7 +99,7 @@
 										<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 										<!-- redirect to contact_us with different subject title -->
 										<small>
-											<a href="contact_us.php" class="btn btn-sm btn-warning">Book Now</a>
+											<?php include "../partials/book-now-button.php"; ?>
 										</small>
 									</div>
 								</div>
@@ -136,7 +136,7 @@
 										<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 										<!-- redirect to contact_us with different subject title -->
 										<small>
-											<a href="contact_us.php" class="btn btn-sm btn-warning">Book Now</a>
+											<?php include "../partials/book-now-button.php"; ?>
 										</small>
 									</div>
 								</div>
@@ -173,7 +173,7 @@
 										<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 										<!-- redirect to contact_us with different subject title -->
 										<small>
-											<a href="contact_us.php" class="btn btn-sm btn-warning">Book Now</a>
+											<?php include "../partials/book-now-button.php"; ?>
 										</small>
 									</div>
 								</div>
