@@ -18,11 +18,18 @@
 					<div class="footer-info">
 						<!-- <img src="assets/img/LogoWrapped.png" alt="logo" class="navbar-logo d-none d-md-block"> -->
 						<p>
-							<span class="fw-bold">PT. Wahana Tatar Wirakelola</span> <br>
-							Jakarta Barat - 11520 <br>
-							Indonesia <br> <br>
-							Phone: <span class="fw-bold">+6221 5830 2327</span> <br>
-							Email: <span class="fw-bold">info@wahanatatar.com</span> <br>
+							<span class="fw-bold">PT. Wahana Tatar Wirakelola</span> 
+							<br>
+							Jl. Kedoya Palma Raya Blok FC No.1
+							<br>
+							Taman Kedoya Baru
+							<br>
+							Jakarta Barat 11520 - Indonesia 
+							<br>
+							Indonesia 
+							<br> 
+							<br>
+							Telp: <span class="fw-bold">0812 1002 8259</span> 
 						</p>
 					</div>
 				</div>
@@ -77,10 +84,7 @@
 							</a>
 						</li>
 					</ul>
-					<!-- <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-					<form action="" method="post">
-						<input type="email" name="email"><input type="submit" value="Subscribe">
-					</form> -->
+					
 				</div>
 			</div>
 		</div>

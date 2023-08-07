@@ -34,8 +34,8 @@
                                 <div class="icon">
                                     <i class="bi bi-layers"></i>
                                 </div>
-                                <a href="/solutions/digital-platform.php" class="stretched-link text-warning">
-                                    <h3>Digital Platform</h3>
+                                <a href="/solutions/learning-platform.php" class="stretched-link text-warning">
+                                    <h3>Learning Platform</h3>
                                 </a>
                                 <p>Discover how Learning Platform will give you better experience within your training &amp; learning processes.</p>
                             </div>

@@ -37,7 +37,7 @@
 			<div class="container-fluid p-0" data-aos="fade-up">
 				<div class="row g-0">
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 					<div class="col-lg-6">
 						<div class="content d-flex flex-column justify-content-center h-100">
@@ -82,7 +82,7 @@
 						</div>
 					</div>
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 				</div>
 			</div>
@@ -109,7 +109,7 @@
 			<div class="container-fluid p-0" data-aos="fade-up" data-aos-delay="200">
 				<div class="row g-0">
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 					<div class="col-lg-6">
 						<div class="content d-flex flex-column justify-content-center h-100">
@@ -151,7 +151,7 @@
 						</div>
 					</div>
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 				</div>
 			</div>
@@ -177,7 +177,7 @@
 			<div class="container-fluid p-0" data-aos="fade-up" data-aos-delay="200">
 				<div class="row g-0">
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 					<div class="col-lg-6">
 						<div class="content d-flex flex-column justify-content-center h-100">

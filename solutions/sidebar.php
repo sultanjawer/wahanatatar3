@@ -11,10 +11,10 @@
                             <h4><a href="/solutions/corporate-university.php">Corporate University</a></h4>
                         </div>
                     </div>
-                                    <div class="post-item" <?php echo (activePage($dataPage) == 'digital-platform') ?  'hidden' : '' ?>  >
+                                    <div class="post-item" <?php echo (activePage($dataPage) == 'learning-platform') ?  'hidden' : '' ?>  >
                         <img src="/assets/img/solutions/gmdWYyH2ynKpRZ6DE08INCoO2x3fwr6pAOpdul4P.jpg" alt="" style="height: 70px; width: 70px">
                         <div>
-                            <h4><a href="/solutions/digital-platform.php">Digital Platform</a></h4>
+                            <h4><a href="/solutions/learning-platform.php">Learning Platform</a></h4>
                         </div>
                     </div>
                                     <div class="post-item" <?php echo (activePage($dataPage) == 'knowledge-management') ?  'hidden' : '' ?>  >

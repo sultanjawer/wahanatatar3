@@ -1,7 +1,7 @@
 <?php
 $dataPage = array(
-        'corporate-university' => 'corporate-university.php',
-        'digital-platform' => 'digital-platform.php',
-        'knowledge-management' => 'knowledge-management.php',
+        'corporate-university' => 'corporate-university',
+        'learning-platform' => 'learning-platform',
+        'knowledge-management' => 'knowledge-management',
     
 );

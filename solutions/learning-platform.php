@@ -8,9 +8,9 @@
 	<?php include "../partials/header.php"; ?>	<!-- End Header -->
 	<section id="solutions" class="hero-static d-flex align-items-center">
 		<div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
-			<h2>Digital Platform</h2>
+			<h2>Learning Platform</h2>
 			<p>
-				<span class="fst-italic">"AWe need to bring learning to people, instead of bring people to learning."</span><br /> Anonymous
+				<span class="fst-italic">"We need to bring learning to people, instead of bring people to learning."</span><br /> Anonymous
 			</p>
 		</div>
 	</section>
@@ -56,7 +56,8 @@
 <p>Our experience in developing Digital Platform for learning processes has been the best practice for our clients. We will implement the best suite for your organization. Entrust all of your company&rsquo;s learning needs to us, from implementation, consulting, and the content development processes.</p>
 <p>Start develop Learning Platform for your organization with the right partner!</p>
 <p>&nbsp;</p>
-<p><img src="/storage/gmdWYyH2ynKpRZ6DE08INCoO2x3fwr6pAOpdul4P.jpg" alt="" width="470" height="304"></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/storage/media/lcd-2.jpg" alt="" width="732" height="426"></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/storage/media/lcd-1.png" alt="" width="233" height="235"></p>
 
 							</div>
 						</article>

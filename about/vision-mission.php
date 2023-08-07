@@ -34,7 +34,7 @@
 						<p>We will help you to develop the learning processes for achievement of your organization strategies.</p>
 					</div>
 					<div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-						<img src="assets/img/solutions/w1.jpg" alt="" class="img-fluid">
+						<img src="/assets/img/solutions/w1.jpg" alt="" class="img-fluid">
 					</div>
 				</div>
 

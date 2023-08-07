@@ -21,4 +21,4 @@
 		color: #ffffff;
 	}
 </style>
-<a class="whatsapp-button" href="https://wa.me/1234567890?text=I'm%20inquiring%20about%20the%20apartment%20listing" target="_blank">Contact Us Now</a>
+<a class="whatsapp-button" href="https://wa.me/6281210028259" target="_blank">Contact Us</a>

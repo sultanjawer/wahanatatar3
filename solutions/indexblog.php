@@ -23,14 +23,14 @@
                                         <div class="card-body">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <h5 class="card-title">
-                                                    <a href="/solutions/digital-platform.php">Digital Platform</a>
+                                                    <a href="/solutions/learning-platform.php">Learning Platform</a>
                                                 </h5>
                                             </div>
                                             <p class="card-text">Discover how Learning Platform will give you better experience within your training &amp; learning processes.</p>
                                         </div>
                                         <div class="card-footer text-end">
                                             <small>
-                                                <a href="/solutions/digital-platform.php" class="btn btn-sm btn-primary">Read more</a>
+                                                <a href="/solutions/learning-platform.php" class="btn btn-sm btn-primary">Read more</a>
                                             </small>
                                         </div>
                                     </div>
