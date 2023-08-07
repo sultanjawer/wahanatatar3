@@ -24,7 +24,7 @@
 					<div class="col-lg-8">
 						<article class="blog-details">
 							<div class="post-img swiper m-1" >
-								<img src="../assets/img/solutions/banner/JtaNi4mq3S5HBHaxnb0xrJTVkjiFnFDHjyzAixSj.jpg" alt="" style="max-height:420px;">
+								<img src="../assets/img/solutions/banner/NFAD4R1WfBqHEkZhhyq7HJuahXA8Run13f8EIBwg.jpg" alt="" style="max-height:420px;">
 							</div>
 
 							<div class="content">
@@ -32,12 +32,11 @@
 <p>It requires a new and creative learning strategy and trigger the Next Generation Corporate University (CU 2020)</p>
 <p><strong>4 KEYS SUCCESS OF CORPORATE UNIVERSITY IMPLEMENTATION</strong></p>
 <ol>
-<li><strong>Address Business Issues</strong>Successful Corporate University implementation have to address the business needs &amp; issues.</li>
+<li><strong>Address Business Issues<br></strong>Successful Corporate University implementation have to address the business needs &amp; issues.</li>
 <li><strong>Management Support<br></strong>Support from top management &amp; business leaders are the main booster for the implementation.</li>
-<li><strong>Involvement</strong>Corporate University is built for everyone. Deep involvement of all stakeholders of the organization is highly needed.</li>
-<li><strong>Learning Exposure</strong>Education is strategy. Innovative &amp; engaging learning exposure are giving huge contribution to the successful learning.</li>
+<li><strong>Involvement<br></strong>Corporate University is built for everyone. Deep involvement of all stakeholders of the organization is highly needed.</li>
+<li><strong>Learning Exposure<br></strong>Education is strategy. Innovative &amp; engaging learning exposure are giving huge contribution to the successful learning.</li>
 </ol>
-<p>&nbsp;</p>
 
 							</div>
 						</article>
@@ -49,23 +48,12 @@
 		</section>
 		<!-- End Portfolio Details Section -->
 
-		<section>
-			<div class="container">
-				<div class="row justify-content-center text-center" data-aos="zoom-in">
-					<h4>Learning Platform Supported by :</h4>
-					<div class="text-center mt-3">
-						<img src="/assets/img/dialogedu.jpg" style="width: 150px; height: 150px">
-					</div>
-					<h5>Authorized Partner of DialogEDU™ - USA</h5>
-				</div>
-			</div>
-		</section>
 
 		<!-- call to action -->
 		<section>
 			<div class="container">
 				<div class="row justify-content-center text-center" data-aos="zoom-in">
-					<h4>Need to implement your Learning Platform?</h4>
+					<h4>Need to building corporate university?</h4>
 					<span class="fs-6">Feel free to consult with us!</span>
 					<div class="text-center mt-3">
 						<button class="btn btn-lg btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Contact Us Now</button>

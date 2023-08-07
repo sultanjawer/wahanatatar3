@@ -11,11 +11,11 @@
                                                 <div class="col" data-aos="zoom-in" data-aos-delay="200">
                         <div class="service-item d-flex flex-column h-100">
                             <div class="img">
-                                <img src="/assets/img/solutions/nlno7oosjVg0FJOiIVGgeU08iMdtEPzDWePgbEya.jpg" class="img-fluid-slider" alt="">
+                                <img src="/assets/img/solutions/WGoWJbMJgwUGPYNGIp8sTT7ur3yOCJ3WAkMA7L1H.jpg" class="img-fluid-slider" alt="">
                             </div>
                             <div class="details position-relative flex-grow-1">
                                 <div class="icon">
-                                    <i class="fa-star-half-alt"></i>
+                                    <i class="bi bi-easel"></i>
                                 </div>
                                 <a href="/solutions/corporate-university.php" class="stretched-link text-warning">
                                     <h3>Corporate University</h3>
@@ -25,24 +25,6 @@
                         </div>
                     </div>
                 
-                                                <div class="col" data-aos="zoom-in" data-aos-delay="200">
-                        <div class="service-item d-flex flex-column h-100">
-                            <div class="img">
-                                <img src="/assets/img/solutions/gmdWYyH2ynKpRZ6DE08INCoO2x3fwr6pAOpdul4P.jpg" class="img-fluid-slider" alt="">
-                            </div>
-                            <div class="details position-relative flex-grow-1">
-                                <div class="icon">
-                                    <i class="bi bi-layers"></i>
-                                </div>
-                                <a href="/solutions/learning-platform.php" class="stretched-link text-warning">
-                                    <h3>Learning Platform</h3>
-                                </a>
-                                <p>Discover how Learning Platform will give you better experience within your training &amp; learning processes.</p>
-                            </div>
-                        </div>
-                    </div>
-                
-                            
             			
 		</div>
 

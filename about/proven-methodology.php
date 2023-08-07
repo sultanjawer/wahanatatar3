@@ -37,7 +37,7 @@
 			<div class="container-fluid p-0" data-aos="fade-up">
 				<div class="row g-0">
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/about/company.png" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 					<div class="col-lg-6">
 						<div class="content d-flex flex-column justify-content-center h-100">
@@ -82,7 +82,7 @@
 						</div>
 					</div>
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/about/workshop-approach.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 				</div>
 			</div>
@@ -109,7 +109,7 @@
 			<div class="container-fluid p-0" data-aos="fade-up" data-aos-delay="200">
 				<div class="row g-0">
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/about/experimental-in-library.webp" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 					<div class="col-lg-6">
 						<div class="content d-flex flex-column justify-content-center h-100">
@@ -151,7 +151,7 @@
 						</div>
 					</div>
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/about/learning-impact.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 				</div>
 			</div>
@@ -177,7 +177,7 @@
 			<div class="container-fluid p-0" data-aos="fade-up" data-aos-delay="200">
 				<div class="row g-0">
 					<div class="col-lg-6" style="position: relative; overflow: hidden;">
-						<img src="/assets/img/solutions/corporate-university.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+						<img src="/assets/img/about/performance-improvement-monitoring.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
 					</div>
 					<div class="col-lg-6">
 						<div class="content d-flex flex-column justify-content-center h-100">
@@ -194,7 +194,7 @@
 		<section>
 			<div class="container">
 				<div class="row justify-content-center text-center" data-aos="zoom-in">
-					<h4>Need to develop your Corporate University?</h4>
+					<!-- <h4>Need to develop your Corporate University?</h4> -->
 					<span class="fs-6">Feel free to consult with us!</span>
 					<div class="text-center mt-3">
 						<?php include "../partials/whatsapp-button.php"; ?>
