@@ -32,12 +32,12 @@
 								<div class="swiper-pagination"></div>
 							</div>
 
-							<h2 class="title">Creating Interactive E-Learning Content</h2>
+							<h2 class="title">Creating 5</h2>
 
 							<div class="meta-top">
 								<ul>
 									<li class="d-flex align-items-center"><i class="fa fa-microphone"></i>Mark Johnson</li>
-									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-25">Aug 25, 2023</time></a></li>
+									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-26">Aug 26, 2023</time></a></li>
 								</ul>
 							</div><!-- End meta top -->
 
@@ -99,7 +99,7 @@
 										</div>
 										<div class="col-10">
 											<span>
-												Aug 25, 2023 11:00
+												Aug 26, 2023 11:00
 											</span>
 										</div>
 									</li>

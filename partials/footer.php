@@ -58,32 +58,8 @@
 
 				<div class="col-md-6 footer-newsletter">
 					<h4>Upcoming Events</h4>
-					<ul class="list-unstyled">
-						<li>
-							<a class="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 text-decoration-none border-bottom" href="events/event-single.php">
-								<svg class="bd-placeholder-img" width="32" height="32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-									<rect width="100%" height="100%" fill="#ffc107" />
-									<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#000" font-size="16px" font-weight="bold">1</text>
-								</svg>
-								<div class="col-lg-8">
-									<h6 class="mb-0">Example Event post title</h6>
-									<small class="text-light">January 15, 2023</small>
-								</div>
-							</a>
-						</li>
-						<li>
-							<a class="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 text-decoration-none border-bottom" href="events/event-single.php">
-								<svg class="bd-placeholder-img" width="32" height="32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-									<rect width="100%" height="100%" fill="#ffc107" />
-									<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#000" font-size="16px" font-weight="bold">2</text>
-								</svg>
-								<div class="col-lg-8">
-									<h6 class="mb-0">Example Event post title</h6>
-									<small class="text-light">January 15, 2023</small>
-								</div>
-							</a>
-						</li>
-					</ul>
+					<?php include "foot_event.php"; ?>
+					
 					
 				</div>
 			</div>

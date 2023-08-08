@@ -3,8 +3,12 @@
 
 <?php include "../config/menu.php"; ?>
 <?php include "../partials/meta.php"; ?>
-<?php $page = $_GET['page']; 
-	if (!$page) $page = 1;
+<?php 
+	$page = null;
+	if (isset($_GET['page'])) {
+		$page = $_GET['page']; 
+	}
+	if (!$page) $page = 2;
 ?>
 <body>
 	<!-- ======= Header ======= -->
@@ -31,7 +35,14 @@
 
 					<div class="col-lg-12">
 											<?php if ($page==1)  include "page_1.php"; ?>
+											<?php if ($page==2)  include "page_2.php"; ?>
 					                        
+											<div class="blog-pagination">
+							<ul class="justify-content-center">
+																	<li <?php if ($page==1) echo 'class="active"' ?> ><a href="?page=1">1</a></li>
+																	<li <?php if ($page==2) echo 'class="active"' ?> ><a href="?page=2">2</a></li>
+															</ul>
+						</div><!-- End blog pagination -->
 										</div>
 				</div>
 

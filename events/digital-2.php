@@ -20,30 +20,31 @@
 							<div class="post-img portfolio-details-slider swiper">
 								<div class="swiper-wrapper align-items-center" style="max-height: 450px;">
                                     									<div class="swiper-slide">
-										<img src="/assets/img/events/slider/FzlhN2ejSsxT0dxuRtCq3VPjF8FQEnvzEYInMAJX.jpg" alt="">
+										<img src="/assets/img/events/slider/wJ5mupfYwfuEWIAfHvVoQ242Tq1nAFTLpJiuzQ45.jpg" alt="">
 									</div>
 																		<div class="swiper-slide">
-										<img src="/assets/img/events/slider/zd7yNSQVgrafMQRMSyz4ducTTKETGaU7OKiIhcwY.jpg" alt="">
+										<img src="/assets/img/events/slider/ssrvbDg1uGezjTfrycXfz0A04MOk2QUtVRxiHWSz.jpg" alt="">
 									</div>
 																		<div class="swiper-slide">
-										<img src="/assets/img/events/slider/jmLWkuCgilgJNOvmKtNSD37Zylv9gvBj6sDObXeV.jpg" alt="">
+										<img src="/assets/img/events/slider/woJQid6i1PFqW3n1KGGYygofXl7GiP5VGiQRIgJc.jpg" alt="">
 									</div>
 																	</div>
 								<div class="swiper-pagination"></div>
 							</div>
 
-							<h2 class="title">Creating Interactive E-Learning Content</h2>
+							<h2 class="title">Digital 2</h2>
 
 							<div class="meta-top">
 								<ul>
-									<li class="d-flex align-items-center"><i class="fa fa-microphone"></i>Mark Johnson</li>
-									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-25">Aug 25, 2023</time></a></li>
+									<li class="d-flex align-items-center"><i class="fa fa-microphone"></i>Dr. Emily Roberts</li>
+									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-02">Aug 02, 2023</time></a></li>
 								</ul>
 							</div><!-- End meta top -->
 
 
 							<div class="content">
-								<p>In this hands-on workshop, Mark Johnson, co-founder of E-Learn Masters, will demonstrate how to create interactive and engaging e-learning content using various authoring tools. Participants will have the opportunity to build their own multimedia-rich lessons and explore different methods to assess and track student progress effectively.</p>
+								<p>Dr. Emily Roberts, a leading expert in educational technology, will share her research and experiences in leveraging digital tools to improve student engagement and learning outcomes. She will discuss the integration of AI, virtual reality, and interactive content in online classrooms, as well as strategies for creating personalized learning paths for each student.</p>
+<p>&nbsp;</p>
 							</div>
 
 						</article>
@@ -56,11 +57,11 @@
 									<div class="row no-gutters row-grid">
 										<div class="col-12">
 											<div class="d-flex flex-column align-items-center justify-content-center p-4 border-bottom">
-												<img src="/assets/img/events/yMne141YIqNpXFTJ8TzMjG1AetFoYFa56021vWB1.png" class="author img-fluid rounded-circle shadow-2 img-thumbnail" alt="">
+												<img src="/assets/img/events/cJ6xMNAZtOoSGXn7IX8qRwNpSdHUBE6Z4Vxl4pXT.png" class="author img-fluid rounded-circle shadow-2 img-thumbnail" alt="">
 												<h5 class="mb-0 mt-5 fw-bold text-center">
-													Mark Johnson
+													Dr. Emily Roberts
 												</h5>
-												<small class="text-muted mb-0">Co-Founder of E-Learn Masters</small>
+												<small class="text-muted mb-0">Director of Educational Technology at ABC University</small>
 											</div>
 										</div>
 									</div>
@@ -89,7 +90,7 @@
 										</div>
 										<div class="col-10">
 											<span>
-												Wahana Tatar Office
+												Sahid Hotel Surabaya
 											</span>
 										</div>
 									</li>
@@ -99,15 +100,13 @@
 										</div>
 										<div class="col-10">
 											<span>
-												Aug 25, 2023 11:00
+												Aug 02, 2023 11:00
 											</span>
 										</div>
 									</li>
 								</ul>
 								<!-- <hr> -->
 								<div class="d-grid mt-5">
-																			<?php include "../partials/book-now-button.php"; ?>
-    
 																	</div>
 							</div>
 						</div>

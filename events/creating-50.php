@@ -20,24 +20,21 @@
 							<div class="post-img portfolio-details-slider swiper">
 								<div class="swiper-wrapper align-items-center" style="max-height: 450px;">
                                     									<div class="swiper-slide">
-										<img src="/assets/img/events/slider/FzlhN2ejSsxT0dxuRtCq3VPjF8FQEnvzEYInMAJX.jpg" alt="">
+										<img src="/assets/img/events/slider/kW5r0SeA4kmDAfSQTo1vofkOJDvniVzvKhVPunoz.jpg" alt="">
 									</div>
 																		<div class="swiper-slide">
-										<img src="/assets/img/events/slider/zd7yNSQVgrafMQRMSyz4ducTTKETGaU7OKiIhcwY.jpg" alt="">
-									</div>
-																		<div class="swiper-slide">
-										<img src="/assets/img/events/slider/jmLWkuCgilgJNOvmKtNSD37Zylv9gvBj6sDObXeV.jpg" alt="">
+										<img src="/assets/img/events/slider/nGa4kIXOU1BEQkqAYTGyh9u2Du8vVfgVGt1cPT0O.jpg" alt="">
 									</div>
 																	</div>
 								<div class="swiper-pagination"></div>
 							</div>
 
-							<h2 class="title">Creating Interactive E-Learning Content</h2>
+							<h2 class="title">Creating 50</h2>
 
 							<div class="meta-top">
 								<ul>
 									<li class="d-flex align-items-center"><i class="fa fa-microphone"></i>Mark Johnson</li>
-									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-25">Aug 25, 2023</time></a></li>
+									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-26">Aug 26, 2023</time></a></li>
 								</ul>
 							</div><!-- End meta top -->
 
@@ -56,7 +53,7 @@
 									<div class="row no-gutters row-grid">
 										<div class="col-12">
 											<div class="d-flex flex-column align-items-center justify-content-center p-4 border-bottom">
-												<img src="/assets/img/events/yMne141YIqNpXFTJ8TzMjG1AetFoYFa56021vWB1.png" class="author img-fluid rounded-circle shadow-2 img-thumbnail" alt="">
+												<img src="/assets/img/events/" class="author img-fluid rounded-circle shadow-2 img-thumbnail" alt="">
 												<h5 class="mb-0 mt-5 fw-bold text-center">
 													Mark Johnson
 												</h5>
@@ -99,7 +96,7 @@
 										</div>
 										<div class="col-10">
 											<span>
-												Aug 25, 2023 11:00
+												Aug 26, 2023 11:00
 											</span>
 										</div>
 									</li>

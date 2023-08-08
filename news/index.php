@@ -3,7 +3,11 @@
 
 <?php include "../config/menu.php"; ?>
 <?php include "../partials/meta.php"; ?>
-<?php $page = $_GET['page']; 
+<?php 
+	$page = null;
+	if (isset($_GET['page'])) {
+		$page = $_GET['page']; 
+	}
 	if (!$page) $page = 1;
 ?>
 <body>

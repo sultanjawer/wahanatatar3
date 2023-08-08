@@ -37,7 +37,7 @@
 							<div class="meta-top">
 								<ul>
 									<li class="d-flex align-items-center"><i class="fa fa-microphone"></i>Dr. Emily Roberts</li>
-									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-04">Aug 04, 2023</time></a></li>
+									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-11">Aug 11, 2023</time></a></li>
 								</ul>
 							</div><!-- End meta top -->
 
@@ -51,7 +51,7 @@
 					</div>
 
 					<div class="col-lg-4">
-						<div class="row mt-5 mb-3">
+												<div class="row mt-5 mb-3">
 							<div class="col mt-3">
 								<div class="card border-0 mb-g shadow">
 									<div class="row no-gutters row-grid">
@@ -68,7 +68,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="card border-0 shadow mb-3" style="background-color: #f7f7f7;">
+																		<div class="card border-0 shadow mb-3" style="background-color: #f7f7f7;">
 							<div class="card-body">
 								<h3 class="card-title text-mute">Event Informations</h3>
 								<p class="excerpt-detail">
@@ -76,7 +76,9 @@
 								</p>
 							</div>
 						</div>
-
+						
+													
+						
 						<div class="card border-0 shadow">
 							
 							<div class="card-body">
@@ -98,17 +100,19 @@
 										</div>
 										<div class="col-10">
 											<span>
-												Aug 04, 2023 11:00
+												Aug 11, 2023 11:00
 											</span>
 										</div>
 									</li>
 								</ul>
 								<!-- <hr> -->
 								<div class="d-grid mt-5">
+																			<?php include "../partials/book-now-button.php"; ?>
+    
 																	</div>
 							</div>
 						</div>
-					</div>
+											</div>
 
 				</div>
 

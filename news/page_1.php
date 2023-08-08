@@ -4,29 +4,29 @@
         <article class="d-flex flex-column">
 
             <div class="post-img">
-                <img src="/assets/img/news/NflCgBtRgFE75RWIBE0l4oqPT2VndomFTErg4n5r.jpg" alt="" class="img-fluid">
+                <img src="/assets/img/news/6Yr70yx9RX64ZaHdd8QZ7ZmHOybxOKvthdx1zocx.jpg" alt="" class="img-fluid">
             </div>
 
             <h2 class="title">
-                <a href="/news/introduction-of-the-ecowings.php">Introduction of the EcoWings</a>
+                <a href="/news/test-20.php">Test 20</a>
             </h2>
 
             <div class="meta-top">
                 <ul>
                     <li class="d-flex align-items-center"><i class="bi bi-person"></i>Admin</li>
-                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>01-08-2023 15:27:13</span></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>Aug 08, 2023</span></li>
 
                 </ul>   
             </div>
 
             <div class="content">
                 <p>
-                    World&#039;s First Zero-Emission Passenger Plane Successfully Completes Test Flight
+                    untuk dihapus diupdate
                 </p>
             </div>
 
             <div class="read-more mt-auto align-self-end">
-                <a href="/news/introduction-of-the-ecowings.php">Read More</a>
+                <a href="/news/test-20.php">Read More</a>
             </div>
 
         </article>
@@ -35,29 +35,29 @@
         <article class="d-flex flex-column">
 
             <div class="post-img">
-                <img src="/assets/img/news/oO0CpdO9iU47NlgluCpwvjZaTSikHhRiynl00mVM.jpg" alt="" class="img-fluid">
+                <img src="/assets/img/news/1ccdMOjIulJsNU57kDswEZkSf4LMi1C8E9xfM7ot.jpg" alt="" class="img-fluid">
             </div>
 
             <h2 class="title">
-                <a href="/news/new-digital-knowledge-platform.php">New Digital Knowledge Platform</a>
+                <a href="/news/initiatives-gain-momentum.php">Initiatives Gain Momentum</a>
             </h2>
 
             <div class="meta-top">
                 <ul>
                     <li class="d-flex align-items-center"><i class="bi bi-person"></i>Admin</li>
-                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>03-08-2023 13:40:23</span></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>Aug 03, 2023</span></li>
 
                 </ul>   
             </div>
 
             <div class="content">
                 <p>
-                    New Digital Knowledge Platform Launched to Empower Remote Learning Amidst Pandemic
+                    Digital Literacy Initiatives Gain Momentum Amidst Rapid Technological Advancements
                 </p>
             </div>
 
             <div class="read-more mt-auto align-self-end">
-                <a href="/news/new-digital-knowledge-platform.php">Read More</a>
+                <a href="/news/initiatives-gain-momentum.php">Read More</a>
             </div>
 
         </article>
@@ -66,29 +66,29 @@
         <article class="d-flex flex-column">
 
             <div class="post-img">
-                <img src="/assets/img/news/avjs5xscnxYxbyFStx1t0x38boX3aFWkzwzckUxj.jpg" alt="" class="img-fluid">
+                <img src="/assets/img/news/a7M6MYRyzEAGjSuhswPi8T5PoumFw3g89YzLIMhS.jpg" alt="" class="img-fluid">
             </div>
 
             <h2 class="title">
-                <a href="/news/ai-driven-fact-checking.php">AI-Driven Fact-Checking</a>
+                <a href="/news/global-conglomerate-partners.php">Global Conglomerate Partners</a>
             </h2>
 
             <div class="meta-top">
                 <ul>
                     <li class="d-flex align-items-center"><i class="bi bi-person"></i>Admin</li>
-                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>03-08-2023 13:41:59</span></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>Aug 03, 2023</span></li>
 
                 </ul>   
             </div>
 
             <div class="content">
                 <p>
-                    AI-Driven Fact-Checking Tools Combat Misinformation on Digital Platforms
+                    Global Conglomerate Partners with Academia to Establish Corporate University Network
                 </p>
             </div>
 
             <div class="read-more mt-auto align-self-end">
-                <a href="/news/ai-driven-fact-checking.php">Read More</a>
+                <a href="/news/global-conglomerate-partners.php">Read More</a>
             </div>
 
         </article>
@@ -107,7 +107,7 @@
             <div class="meta-top">
                 <ul>
                     <li class="d-flex align-items-center"><i class="bi bi-person"></i>Admin</li>
-                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>03-08-2023 13:43:39</span></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>Aug 03, 2023</span></li>
 
                 </ul>   
             </div>
@@ -128,29 +128,29 @@
         <article class="d-flex flex-column">
 
             <div class="post-img">
-                <img src="/assets/img/news/HR7t9JO2lw6zbewyz3CMl06jhEg9TFoIW6ktZlZ2.jpg" alt="" class="img-fluid">
+                <img src="/assets/img/news/avjs5xscnxYxbyFStx1t0x38boX3aFWkzwzckUxj.jpg" alt="" class="img-fluid">
             </div>
 
             <h2 class="title">
-                <a href="/news/tech-giant-launches-state-of-the-art.php">Tech Giant Launches State-of-the-Art</a>
+                <a href="/news/ai-driven-fact-checking.php">AI-Driven Fact-Checking</a>
             </h2>
 
             <div class="meta-top">
                 <ul>
                     <li class="d-flex align-items-center"><i class="bi bi-person"></i>Admin</li>
-                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>03-08-2023 13:46:02</span></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>Aug 03, 2023</span></li>
 
                 </ul>   
             </div>
 
             <div class="content">
                 <p>
-                    Tech Giant Launches State-of-the-Art Corporate University to Foster Employee Growth
+                    AI-Driven Fact-Checking Tools Combat Misinformation on Digital Platforms
                 </p>
             </div>
 
             <div class="read-more mt-auto align-self-end">
-                <a href="/news/tech-giant-launches-state-of-the-art.php">Read More</a>
+                <a href="/news/ai-driven-fact-checking.php">Read More</a>
             </div>
 
         </article>
@@ -159,29 +159,29 @@
         <article class="d-flex flex-column">
 
             <div class="post-img">
-                <img src="/assets/img/news/a7M6MYRyzEAGjSuhswPi8T5PoumFw3g89YzLIMhS.jpg" alt="" class="img-fluid">
+                <img src="/assets/img/news/oO0CpdO9iU47NlgluCpwvjZaTSikHhRiynl00mVM.jpg" alt="" class="img-fluid">
             </div>
 
             <h2 class="title">
-                <a href="/news/global-conglomerate-partners.php">Global Conglomerate Partners</a>
+                <a href="/news/new-digital-knowledge-platform.php">New Digital Knowledge Platform</a>
             </h2>
 
             <div class="meta-top">
                 <ul>
                     <li class="d-flex align-items-center"><i class="bi bi-person"></i>Admin</li>
-                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>03-08-2023 13:47:10</span></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <span>Aug 03, 2023</span></li>
 
                 </ul>   
             </div>
 
             <div class="content">
                 <p>
-                    Global Conglomerate Partners with Academia to Establish Corporate University Network
+                    New Digital Knowledge Platform Launched to Empower Remote Learning Amidst Pandemic
                 </p>
             </div>
 
             <div class="read-more mt-auto align-self-end">
-                <a href="/news/global-conglomerate-partners.php">Read More</a>
+                <a href="/news/new-digital-knowledge-platform.php">Read More</a>
             </div>
 
         </article>
