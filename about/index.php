@@ -3,7 +3,7 @@
 
 <?php include "../config/menu.php"; ?>
 <?php include "../partials/meta.php"; ?>
-
+<?php include "../config/phonenumber.php"; ?>
 
 <body id="about">
 

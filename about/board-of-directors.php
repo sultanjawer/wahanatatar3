@@ -3,6 +3,8 @@
 
 <?php include "../config/menu.php"; ?>
 <?php include "../partials/meta.php"; ?>
+<?php include "../config/phonenumber.php"; ?>
+
 
 <body>
 	<!-- ======= Header ======= -->
@@ -33,9 +35,9 @@
 
 					<div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="200">
 						<div class="team-member">
-							<div class="member-img">
+							<!-- <div class="member-img">
 								<img src="/assets/img/team/team-1.jpg" class="img-fluid" alt="">
-							</div>
+							</div> -->
 							<div class="member-info">
 								
 								<h4>Imam Santoso</h4>
@@ -49,9 +51,9 @@
 
 					<div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="400">
 						<div class="team-member">
-							<div class="member-img">
+							<!-- <div class="member-img">
 								<img src="/assets/img/team/team-2.jpg" class="img-fluid" alt="">
-							</div>
+							</div> -->
 							<div class="member-info">
 								
 								<h4>Anna Maria, M. Eng, Ph. D</h4>
@@ -65,9 +67,9 @@
 
 					<div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="600">
 						<div class="team-member">
-							<div class="member-img">
+							<!-- <div class="member-img">
 								<img src="/assets/img/team/team-3.jpg" class="img-fluid" alt="">
-							</div>
+							</div> -->
 							<div class="member-info">
 								
 								<h4>Ir. Wiwin Wangsa</h4>
