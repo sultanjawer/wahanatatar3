@@ -3,6 +3,8 @@
 
 <?php include "../config/menu.php"; ?>
 <?php include "../partials/meta.php"; ?>
+<?php include "../config/phonenumber.php"; ?>
+
 <?php 
 	$page = null;
 	if (isset($_GET['page'])) {

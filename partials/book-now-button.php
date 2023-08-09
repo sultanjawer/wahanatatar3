@@ -21,4 +21,4 @@
 		color: #ffffff;
 	}
 </style>
-<a class="btn btn-sm btn-warning" href="https://wa.me/1234567890?text=I'm%20inquiring%20about%20the%20apartment%20listing" target="_blank">Book Now</a>
+<a class="btn btn-sm btn-warning" href="https://wa.me/6281210028260" target="_blank">Book Now</a>

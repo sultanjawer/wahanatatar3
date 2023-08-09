@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include "../config/menu.php"; ?><?php include "../partials/meta.php"; ?>
+<?php include "../config/menu.php"; ?><?php include "../partials/meta.php"; ?><?php include "../config/phonenumber.php"; ?>
 <body id="solutions">
 
 	<!-- ======= Header ======= -->
@@ -9,10 +9,10 @@
 	<section id="solutions" class="hero-static d-flex align-items-center">
 		<div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
 			<h2>Corporate University</h2>
-			<p>
+						<p>
 				<span class="fst-italic">"A true corporate university (CU) has moved beyond training &amp; education and into the daily challenge of getting results."</span><br /> Wheeler &amp; Eileen Clegg
 			</p>
-		</div>
+					</div>
 	</section>
 
 	<main id="main">
@@ -56,7 +56,8 @@
 					<h4>Need to building corporate university?</h4>
 					<span class="fs-6">Feel free to consult with us!</span>
 					<div class="text-center mt-3">
-						<button class="btn btn-lg btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Contact Us Now</button>
+						<?php include "../partials/whatsapp-button.php"; ?>
+ 
 					</div>
 				</div>
 			</div>

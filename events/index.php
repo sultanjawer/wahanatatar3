@@ -3,12 +3,14 @@
 
 <?php include "../config/menu.php"; ?>
 <?php include "../partials/meta.php"; ?>
+<?php include "../config/phonenumber.php"; ?>
+
 <?php 
 	$page = null;
 	if (isset($_GET['page'])) {
 		$page = $_GET['page']; 
 	}
-	if (!$page) $page = 2;
+	if (!$page) $page = 1;
 ?>
 <body>
 	<!-- ======= Header ======= -->

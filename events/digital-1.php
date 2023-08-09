@@ -3,6 +3,7 @@
 
 <?php include "../config/menu.php"; ?>
 <?php include "../partials/meta.php"; ?>
+<?php include "../config/phonenumber.php"; ?>
 <body>
 
 	<!-- ======= Header ======= -->
@@ -107,8 +108,6 @@
 								</ul>
 								<!-- <hr> -->
 								<div class="d-grid mt-5">
-																			<?php include "../partials/book-now-button.php"; ?>
-    
 																	</div>
 							</div>
 						</div>
