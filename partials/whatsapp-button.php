@@ -21,4 +21,5 @@
 		color: #ffffff;
 	}
 </style>
-<a class="whatsapp-button" href="https://wa.me/6281210028259" target="_blank">Contact Us</a>
+
+<a class="whatsapp-button" href="https://wa.me/6281210028260" target="_blank">Contact Us</a>

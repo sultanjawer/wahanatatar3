@@ -55,7 +55,7 @@
 						<i class="bi bi-phone flex-shrink-0"></i>
 						<div>
 							<h4>Telp:</h4>
-							<p>0812 1002 8259</p>
+							<p><?php echo $notelp ?></p>
 						</div>
 					</div><!-- End Info Item -->
 

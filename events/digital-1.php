@@ -37,7 +37,7 @@
 							<div class="meta-top">
 								<ul>
 									<li class="d-flex align-items-center"><i class="fa fa-microphone"></i>Dr. Emily Roberts</li>
-									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-01">Aug 01, 2023</time></a></li>
+									<li class="d-flex align-items-center"><i class="bi bi-calendar"></i> <time datetime="2023-08-09">Aug 09, 2023</time></a></li>
 								</ul>
 							</div><!-- End meta top -->
 
@@ -100,13 +100,15 @@
 										</div>
 										<div class="col-10">
 											<span>
-												Aug 01, 2023 11:00
+												Aug 09, 2023 07:00
 											</span>
 										</div>
 									</li>
 								</ul>
 								<!-- <hr> -->
 								<div class="d-grid mt-5">
+																			<?php include "../partials/book-now-button.php"; ?>
+    
 																	</div>
 							</div>
 						</div>

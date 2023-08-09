@@ -101,7 +101,7 @@
                 <div class="post-item mt-3">
                     <img src="/assets/img/events/zx5cROtPpwADWPZ8bioB56ek9W6ROOSY232eBpNw.jpg" alt="" class="flex-shrink-0">
                     <div>
-                        <h4><a href="/events/digital-3.php">Digital 3</a></h4>
+                        <h4><a href="/events/digital-1.php">Digital 1</a></h4>
                         <time datetime="07-08-2023">07-08-2023 14:37:01</time>
                     </div>
                 </div><!-- End recent post item-->
