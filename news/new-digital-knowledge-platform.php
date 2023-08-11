@@ -38,7 +38,7 @@
 							<div class="meta-top">
 								<ul>
 									<li class="d-flex align-items-center"><i class="bi bi-person"></i>Admin</li>
-									<li class="d-flex align-items-center"><i class="bi bi-clock"></i><span>Aug 03, 2023</span></li>
+									<li class="d-flex align-items-center"><i class="bi bi-clock"></i><span>Aug 08, 2023</span></li>
 								</ul>
 							</div><!-- End meta top -->
 

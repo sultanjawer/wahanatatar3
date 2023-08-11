@@ -17,7 +17,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img src="assets/img/slider/slider-1.jpg" alt="slide1" style="object-fit: cover; width: 100%; height:600px">
+			<img src="assets/img/slider/slider-2.png" alt="slide1" style="object-fit: cover; width: 100%; height:600px">
 			<div class=" container">
 				<div class="carousel-caption">
 					<h1 class="fw-bold text-uppercase">LEARNING PLATFORM</h1>
@@ -27,7 +27,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img src="assets/img/slider/slider-1.jpg" alt="slide1" style="object-fit: cover; width: 100%; height:600px">
+			<img src="assets/img/slider/slider-3.png" alt="slide1" style="object-fit: cover; width: 100%; height:600px">
 			<div class=" container">
 				<div class="carousel-caption text-end">
 					<h1 class="fw-bold  text-uppercase">MANAGE CORPORATE LEARNING</h1>
@@ -36,7 +36,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img src="assets/img/slider/slider-1.jpg" alt="slide1" style="object-fit: cover; width: 100%; height:600px">
+			<img src="assets/img/slider/slider-4.png" alt="slide1" style="object-fit: cover; width: 100%; height:600px">
 			<div class=" container">
 				<div class="carousel-caption">
 					<h1 class="fw-bold  text-uppercase">BEING WORLD-CLASS COMPANY</h1>

@@ -19,11 +19,20 @@
 					<div class="col-lg-8">
 						<article class="blog-details">
 							<div class="post-img portfolio-details-slider swiper">
-								<div class="swiper-wrapper align-items-center" style="max-height: 450px;">
-                                    									<div class="swiper-slide">
-										<img src="/assets/img/news/slider/udWxY5Ezo3ccXXj35sA1yWKeuSBWG2ZmGoTkup3I.jpg" alt="">
+								<div class="swiper-wrapper align-items-center" style="max-height: 450px; width: 100%; object-fit: cover; object-position: center;">
+                                    <div class="swiper-slide align-items-center" >
+										<img src="/assets/img/news/slider/udWxY5Ezo3ccXXj35sA1yWKeuSBWG2ZmGoTkup3I.jpg" alt="" style="height: auto; width: 100%; object-fit: cover; object-position: center;">
 									</div>
-																	</div>
+									<div class="swiper-slide align-items-center">
+										<img src="/assets/img/news/slider/vRAcq6luOXNhmddZ6Z8eaZZPerlFdreie9cTbMSe.jpg" alt="" style="height: auto; width: 100%; object-fit: cover; object-position: center;">
+									</div>
+									<div class="swiper-slide align-items-center">
+										<img src="/assets/img/news/slider/EQX3BziNmciOqHAF9cTYedtaQ9TXzVQT7EIaByRq.jpg" alt="" style="height: auto; width: 100%; object-fit: cover; object-position: center;">
+									</div>
+									<div class="swiper-slide align-items-center">
+										<img src="/assets/img/news/slider/dZEIgfbENMWxsV9cMUAZ9rpPT2Or2fTnauDOSz1W.jpg" alt="" style="height: auto; width: 100%; object-fit: cover; object-position: center;"> 
+									</div>
+								</div>
 								<div class="swiper-pagination"></div>
 							</div>
 
@@ -32,7 +41,7 @@
 							<div class="meta-top">
 								<ul>
 									<li class="d-flex align-items-center"><i class="bi bi-person"></i>Admin</li>
-									<li class="d-flex align-items-center"><i class="bi bi-clock"></i><span>Aug 08, 2023</span></li>
+									<li class="d-flex align-items-center"><i class="bi bi-clock"></i><span>Aug 11, 2023</span></li>
 								</ul>
 							</div><!-- End meta top -->
 
