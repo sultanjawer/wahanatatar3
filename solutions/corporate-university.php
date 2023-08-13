@@ -24,7 +24,7 @@
 					<div class="col-lg-8">
 						<article class="blog-details">
 							<div class="post-img swiper m-1" >
-								<img src="../assets/img/solutions/banner/NFAD4R1WfBqHEkZhhyq7HJuahXA8Run13f8EIBwg.jpg" alt="" style="max-height:420px;">
+								<img src="../assets/img/solutions/banner/cYv7UuDJXdQRZVAyezGZYASevrttyVx2CKXiBk57.jpg" alt="" style="height: auto; width: 100%; object-fit: cover; object-position: center;">
 							</div>
 
 							<div class="content">

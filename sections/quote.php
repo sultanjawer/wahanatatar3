@@ -6,7 +6,7 @@
 				&rdquo;An organization&rsquo;s ability
 				to&nbsp;<strong>LEARN</strong>, and
 				translate that learning into ACTION
-				rapidly is the ultimate&nbsp;<strong>Competetive Advantage</strong>&rdquo;
+				rapidly is the ultimate&nbsp;<strong>Competitive Advantage</strong>&rdquo;
 			</h2>
 			<span class="sppb-addon-testimonial-client text-center mt-2">
 				<strong>Jack Welch</strong><br />
