@@ -36,15 +36,7 @@
 				<div class="row g-5">
 
 					<div class="col-lg-12">
-											<?php if ($page==1)  include "page_1.php"; ?>
-											<?php if ($page==2)  include "page_2.php"; ?>
 					                        
-											<div class="blog-pagination">
-							<ul class="justify-content-center">
-																	<li <?php if ($page==1) echo 'class="active"' ?> ><a href="?page=1">1</a></li>
-																	<li <?php if ($page==2) echo 'class="active"' ?> ><a href="?page=2">2</a></li>
-															</ul>
-						</div><!-- End blog pagination -->
 										</div>
 				</div>
 

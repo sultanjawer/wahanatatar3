@@ -28,15 +28,15 @@
 					<h3 class="fw-bold">INTENTION</h3>
 				</div> -->
 				<div class="row gy-4">
-					<div class="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
+					<div class="col-lg-6 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
 						<h3>INTENTION</h3>
-						<p class="fst-italic">
+						<p class="fst-italic" style="line-height: 2.0">
 							Having the intention of empowering the proffesionals for betterment of Indonesia workforce through learning and development, PT Wahana Tatar Wirakelola (WTW) focus on providing quality learning solution and performance development by enhancing the capabilities of corporate workfoces, especially in development of Corporate University, Digital Learning Transformation, Knowledge Management, Professional & Leadership Development Program and Certification in Corporate Learning.
 						</p>
-						<p>We will help you to develop the learning processes for achievement of your organization strategies.</p>
+						
 					</div>
-					<div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-						<img src="/assets/img/solutions/w1.jpg" alt="" class="img-fluid">
+					<div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
+						<img src="/assets/img/about/mission2.png" alt="" class="img-fluid">
 					</div>
 				</div>
 
@@ -47,6 +47,7 @@
 		<section id="featured-services" class="featured-services">
 			<div class="container">
 				<div class="section-header">
+					<h5 class="fst-italic">We will help you to develop the learning processes for achievement of your organization strategies.</h5>
 					<h5 class="fst-italic">Those results comes out from our Vision & Mission.</h5>
 				</div>
 				<div class="row gy-4">
